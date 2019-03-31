@@ -18,7 +18,7 @@ public class HomeworkJDBC {
 
         Operations_JDBC operations_jdbc = new Operations_JDBC();
 
-        System.out.println("*****************************************************");
+        System.out.println("****************************************************");
         System.out.println("Display data for all classes: ");
         operations_jdbc.queryAllClasses();
 

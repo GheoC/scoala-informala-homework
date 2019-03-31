@@ -24,6 +24,7 @@ public class JDBC_Connector {
                 .append("root")
                 .append("&password=")
                 .append("password").toString();
+
         return DriverManager.getConnection(url);
     }
 }

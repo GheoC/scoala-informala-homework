@@ -10,7 +10,6 @@ import java.sql.*;
  * 5. profs with Fields: profid, profname
  *
  *  This class implements the following methods to:
- *
  * - Display data for all classes.
  * - Display data for a course with specified id.
  * - Display data for all classes whose title (when converted to all lowercase letters) begins with "intro".
